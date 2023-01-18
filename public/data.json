@@ -1,0 +1,403 @@
+{
+  "plants":[
+    {
+       "commonNames":[
+         "Cranberry Hibiscus"
+       ],
+       "scientificName":"Hibiscus acetosella",
+       "available":"true",
+       "images": [
+         {
+           "url": "0-0-cranberry_hibiscus.jpeg",
+           "alt": "Image of a Cranberry Hibiscus plant"
+         },
+         {
+           "url": "0-1-cranberry_hibiscus_flower.JPG",
+           "alt": "Image of a Cranberry Hibiscus plant flower"
+         }
+       ],
+       "sizes":[
+         {
+           "4inch":"$6"
+         },
+         {
+           "6inch": "10"
+         }
+       ],
+       "type":["greens"],
+       "description":"The red color of this plant can be quite attractive in a garden as a contrast to greenery. The flowers are used in teas and the leaves have a sweet cranberry taste making a great addition to any salad. This plant drops seeds around it's roots that germinate easily on their own, so you will find an abundance of seedling volunteers that you can share with others, once this becomes established.",
+       "howToEat":"",
+       "numberAvailable":""
+    },
+    {
+      "commonNames":[
+        "Okinawa Spinach",
+        "Okinawa Lettuce"
+      ],
+       "scientificName":"Gynura bicolor",
+       "available":"true",
+       "images": [
+         {
+           "url": "1-0-gynura_bicolor.jpeg",
+           "alt": ""
+         }
+       ],
+       "sizes": [
+         {
+           "4inch":"$6"
+         },
+         {
+           "UnrootedCuttings": "2 for $3"
+         }
+       ],
+       "type":["greens"],
+       "description":"This grows similar to longevity spinach, except it has more of an ornamental look to it, as the leaves are two-town purple and green. The purple side is really pretty and these could really be planted purely as as an ornamental landscape shrub, if you didn't intend to eat it.",
+       "howToEat":"Young leaves can be used as garnish or in a salad and the older leaves should be cooked lightly.",
+       "numberAvailable":""
+    },
+    {
+      "commonNames":[
+        "Chaya",
+        "Mayan Tree Spinach"
+      ],
+       "scientificName":"Cnidoscolus aconitifolius v. deeply lobed",
+       "available":"true",
+       "images": [
+         {
+           "url": "2-0-cnidoscolus_v-lobed.jpeg",
+           "alt": "Image of deeply lobed chaya plant"
+         }
+       ],
+       "sizes": [
+         {
+           "4inch":"$6"
+         },
+         {
+           "UnrootedCuttings": "2 for $3"
+         }
+       ],
+       "type":["greens"],
+       "description":"Like Moringa, this is also known as a superfood because of the high nutritional density in the leaves. It has a high level of vitamin C, A, iron, calcium, and protein in it. Many tropical leafy greens can have a thick succulent texture to them, and one of the great characteristics of this is that the leaves have a texture that are much closer to spinach, but slightly thicker so that when you cook them, they don't shrink as much. The leaves do have to be cooked for 10 minutes to make them safe to eat, as they have cyanide in them, but as long as you cook them, the cyanide off-gasses. This is an amazingly hardy and drought-tolerant perennial shrub/small tree that grows an edible 'spinach' on the branches. This tree grows to large shrub or small tree size, depending on how you prune it.  This is the deeply-lobed variant of chaya, which is thought of as better for pollinators due to the higher numberAvailable of flowers produced.",
+       "howToEat":"",
+       "numberAvailable":""
+    },
+    {
+      "commonNames":[
+        "Chaya",
+        "Mayan Tree Spinach"
+      ],
+       "scientificName":"Cnidoscolus aconitifolius v. maple leaf",
+       "available":"true",
+       "images": [
+         {
+           "url": "3-0-cnidoscolus_v-maple.jpeg",
+           "alt": ""
+         }
+       ],
+       "sizes": [
+         {
+           "4inch":"$6"
+         },
+         {
+           "UnrootedCuttings": "2 for $3"
+         }
+       ],
+       "type":["greens"],
+       "description":"Like Moringa, this is also known as a superfood because of the high nutritional density in the leaves. It has a high level of vitamin C, A, iron, calcium, and protein in it. Many tropical leafy greens can have a thick succulent texture to them, and one of the great characteristics of this is that the leaves have a texture that are much closer to spinach, but slightly thicker so that when you cook them, they don't shrink as much. The leaves do have to be cooked for 10 minutes to make them safe to eat, as they have cyanide in them, but as long as you cook them, the cyanide off-gasses. This is an amazingly hardy and drought-tolerant perennial shrub/small tree that grows an edible 'spinach' on the branches. This tree grows to large shrub or small tree size, depending on how you prune it. This is the maple-leaf variant of chaya, which is thought of as easier for cooking with due to the larger surface area. ",
+       "howToEat":"",
+       "numberAvailable":""
+    },
+    {
+      "commonNames":[
+        "Pigeon Peas",
+        "Gandules"
+      ],
+       "scientificName":"Cajanus cajun",
+       "available":"true",
+       "images": [
+         {
+           "url": "4-0-cajanus_cajun.jpeg",
+           "alt": "Image of pigeon pea plant"
+         },
+         {
+           "url": "4-1-cajanus_cajun-full.jpeg",
+           "alt": "Image of mature pigeon pea shrub"
+         },
+         {
+           "url": "4-2-cajanus_cajun-peas.jpeg",
+           "alt": "Image of pigeon pea pods"
+         }
+       ],
+       "sizes": [
+         {
+           "4inch":"$6"
+         }
+       ],
+       "type":["fruiting", "pioneer"],
+       "description":"This is an extremely versatile short perennial shrub that grows a long taproot that pulls minerals and water from deep in the soil. Because of this, you can plant these next to fruit trees or other high-maintenance plants to function as a 'nurse tree'. As a 'nurse tree', they grow quickly and can provide shade, extra water from their tap root, and every time they are pruned, they will release nitrogen from their roots into the soil, for other plants to access. Beyond that, they will start producing pods within 6 months of planting the seeds. You can harvest the beans fresh as a green bean or dry for long storage time. Pigeon Pea plants are great to use as 'pioneer plants' to remediate poor soil. If you practice 'chop and drop' methods of gardening, you can chop off the limbs of the plant and throw them on the ground to add nutrients to the soil and the tree will constantly keep growing.",
+       "howToEat":"",
+       "numberAvailable":""
+    },
+    {
+      "commonNames":[
+        "Cuban Oregano",
+        "Mexican Mint",
+        "Spanish Thyme"
+      ],
+       "scientificName":"Plectranthus amboinicus",
+       "available":"true",
+       "images": [
+         {
+           "url": "5-2-plectranthus_var.jpeg",
+           "alt": "Image of a variegated cuban oregano"
+         }
+       ],
+       "sizes": [
+         {
+           "4inch":"$6"
+         }
+       ],
+       "type":["herbs"],
+       "description":"This plant works great as a ground cover, even if you don't intend to cook with it, because it's very visually striking and spreads easily without any attention. It grows best in partial shade so it does really well underneath a tree, to keep the weed pressure down. The leaves are aromatic and velvety. For cooking, this adds a really nice flavor to a marinade or a soup.",
+       "howToEat":"",
+       "numberAvailable":""
+    },
+    {
+      "commonNames":[
+        "Moringa",
+        "Drum Stick Plant",
+        "Miracle Plant"
+      ],
+       "scientificName":"Moringa oleifera",
+       "available":"true",
+       "images": [
+         {
+           "url": "6-0-moringa_oleifera.jpeg",
+           "alt": "Image of a Moringa Oleifera plant"
+         }
+       ],
+       "sizes": [
+         {
+           "4inch":"$6"
+         }
+       ],
+       "type":["greens", "pioneer", "fruiting"],
+       "description":"Known as the 'miracle tree', this plant is the most nutritional terrestrial plant in the world. Almost all parts of this tree are edible, the leaves, flowers, roots, and the large pods that it grows. I like to simply harvest the leaves and cook them in a stir fry or eat them raw in a salad or smoothie. You can also easily dry out the leaves and make a powder from them. This plant is also an extremely fast grower and can grow in very poor soil, such as typical sandy Florida soil. If you prune it often, it will respond by branching and growing more rapidly.",
+       "howToEat":"",
+       "numberAvailable":""
+    },
+    {
+      "commonNames":[
+        "Spilanthes",
+        "Toothache Plant"
+      ],
+       "scientificName":"Spilanthes oleracea",
+       "available":"true",
+       "images": [
+         {
+           "url": "7-0-spilanthes_oleracea.jpeg",
+           "alt": "Image of spilanthes plant"
+         },
+         {
+           "url": "7-1-spilanthes_oleracea-bloom.jpg",
+           "alt": "Image of spilanthes flowers"
+         }
+       ],
+       "sizes": [
+         {
+           "4inch":"$6"
+         },
+         {
+           "6inch":"$10"
+         }
+       ],
+       "type":["herbs"],
+       "description":"The common name of 'toothache plant' comes from the local anesthetic effect that you get when chewing on the blooms. The active ingredient in Spilanthes is called spilanthol. Spilanthol is an antiseptic alkaloid found throughout the entire plant but with the greatest amounts located in the flowers. This is quite easy to grow here in Florida and is resistant to disease and insects.",
+       "howToEat":"",
+       "numberAvailable":""
+    },
+    {
+      "commonNames":[
+        "Longevity Spinach"
+      ],
+       "scientificName":"Gynura procumbens",
+       "available":"true",
+       "images": [
+         {
+           "url": "8-0-gynura_procumbens.jpeg",
+           "alt": ""
+         }
+       ],
+       "sizes": [
+         {
+           "4inch":"$6"
+         },
+         {
+           "UnrootingCuttings":"2/$3"
+         }
+       ],
+       "type":["greens"],
+       "description":"This is a low-growing plant that can become a ground cover if you let it. This is thought to help with lowering cholesterol and blood pressure. You can eat it cooked or raw, but I recommend cooking it. A quick stir fry is all that's needed. It's extremely hardy and drought tolerant.",
+       "howToEat":"",
+       "numberAvailable":""
+    },
+    {
+      "commonNames":[
+        "Holy Basil",
+        "Tulsi"
+      ],
+       "scientificName":"Ocimum tenuiflorum",
+       "available":"true",
+       "images": [
+         {
+           "url": "9-0-ocimum_tenuiflorum.jpeg",
+           "alt": "Image of tulsi plant"
+         }
+       ],
+       "sizes": [
+         {
+           "4inch":"$6"
+         }
+       ],
+       "type":["herbs"],
+       "description":"Holy basil, otherwise known as tulsi in Hindu is an adaptogen (helps the body with maintaining homeostasis and fighting the effects of stress). Tulsi has a rich history dating back 3,000 years ago to ancient India, as it’s long been considered a medicinal herb and sacred plant in Ayurvedic medicine. It's common to consume this plant as a tea.",
+       "howToEat":"",
+       "numberAvailable":""
+    },
+    {
+      "commonNames":[
+        "Egyptian Spinach",
+        "Molokhiya"
+      ],
+       "scientificName":"corchorus olitorius",
+       "available":"true",
+       "images": [
+         {
+           "url": "10-0-chorchorus.jpeg",
+           "alt": "Image of Egyptian spinach plant"
+         }
+       ],
+       "sizes": [
+         {
+           "4inch":"$6"
+         }
+       ],
+       "type":["greens"],
+       "description":"In warm climates like Florida, this is a perennial. It has a long history of use in the Middle East as a super green, known for its high vitamin and mineral content. Reaching a height of 5-8 feet in the ground it can be harvested and topped when young for more lateral growth or clear cut when tall and replanted. If grown out to maturity, the stalks can be processed to make the fibrous material jute. Unlike some of the thick tropical greens like okinawa and longevity spinach, the leaves on these are quite tender, more like traditional spinach.",
+       "howToEat":"",
+       "numberAvailable":""
+    },
+    {
+      "commonNames":[
+        "Bacopa Monnieri",
+        "Brahmi"
+      ],
+       "scientificName":"Bacopa monnieri",
+       "available":"true",
+       "images": [
+         {
+           "url": "11-0-bacopa_monnieri.jpeg",
+           "alt": "Image of Bacopa Monnieri plant"
+         }
+       ],
+       "sizes": [
+         {
+           "4inch":"$6"
+         }
+       ],
+       "type":["herbs"],
+       "description":" This plant has both decorative and very strong medicinal qualities to it. It has been known in Ayurvedic medicine for a long time for having neurological (memory and concentration) benefits and there is also research within western medicine that supports this. It's an aquatic plant that can grow partially or fully submerged in water and withstand periods of drought. It looks great in a hanging basket. I have taken to drying out pieces of the plant and blending it up into a powder to take as a supplement or tea.",
+       "howToEat":"",
+       "numberAvailable":""
+    },
+    {
+      "commonNames":[
+        "Nasturtium"
+      ],
+       "scientificName":"Tropaeolum majus",
+       "available":"true",
+       "images": [
+         {
+           "url": "12-0-tropaeolum_majus.jpeg",
+           "alt": "Image of nasturtium plant"
+         }
+       ],
+       "sizes": [
+         {
+           "4inch":"$6"
+         }
+       ],
+       "type":["greens, herbs"],
+       "description":" This plant grows really well during the cooler months of the year in Florida. Both the leaves and the flowers are edible! The flowers have a peppery flavor and add a really nice aesthetic value to any dish. I have a variegated variety and one that is non-variegated.",
+       "howToEat":"",
+       "numberAvailable":""
+    },
+    {
+      "commonNames":[
+        "Everglades Tomato"
+      ],
+       "scientificName":"Solanum lycopersicum var Everglades",
+       "available":"true",
+       "images": [
+         {
+           "url": "13-0-solanum_lycopersicum.jpeg",
+           "alt": "Image of Everglades tomato plant"
+         }
+       ],
+       "sizes": [
+         {
+           "4inch":"$6"
+         }
+       ],
+       "type":["fruiting"],
+       "description":"This is a native Floridian tomato plant that is able to withstand the sandy soil, humidity, and strong fluctuations in rain that exist in the Florida climate. The tomatoes are blueberry sized, but they have a wonderfully sweet flavor.",
+       "howToEat":"",
+       "numberAvailable":""
+    },
+    {
+      "commonNames":[
+        "Sissoo Spinach",
+        "Brazilian Spinach"
+      ],
+       "scientificName":"Alternanthera sissoo",
+       "available":"true",
+       "images": [
+         {
+           "url": "14-0-alternanthera_sissoo.jpeg",
+           "alt": "Image of sissoo spinach plant"
+         }
+       ],
+       "sizes": [
+         {
+           "4inch":"$6"
+         }
+       ],
+       "type":["greens"],
+       "description":"This is a great low-growing perennial tropical spinach that does best in partial shade. You can plant it as a groundcover under a fruit tree or bush. It has a more delicate texture than some of the other tropical spinaches, so you can eat it cooked or raw.",
+       "howToEat":"",
+       "numberAvailable":""
+    },
+    {
+      "commonNames":[
+        "Passion Fruit"
+      ],
+       "scientificName":"Passiflora edulis",
+       "available":"true",
+       "images": [
+         {
+           "url": "15-0-passiflora_edulis.jpeg",
+           "alt": "Image of passion fruit plant"
+         }
+       ],
+       "sizes": [
+         {
+           "4inch":"$6"
+         }
+       ],
+       "type":["plants", "herbs"],
+       "description":"A great vine to add beauty, food, and medicine to your garden. The flower is very unique, looking and the fruits are quite tasty. You can also dry out the stems, leaves, and flowers to make passion flower tea, an effective herb for pain and stress",
+       "howToEat":"",
+       "numberAvailable":""
+    }
+  ]
+}
